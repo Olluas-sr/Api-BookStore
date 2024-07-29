@@ -1,0 +1,6 @@
+@e_comerceAPIs_HostAddress = http://localhost:5245
+
+GET {{e_comerceAPIs_HostAddress}}/livraria/
+Accept: application/json
+
+###
